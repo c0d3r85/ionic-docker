@@ -2,7 +2,7 @@
 
 ## Building
 
-    docker build Dockerfile
+    docker build -t ionic-docker .
 
 ## Running
 
